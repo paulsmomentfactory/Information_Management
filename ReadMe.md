@@ -37,12 +37,13 @@ python data_cleaner.py [options]
 ```
 Please refer to each tool's individual documentation for more detailed information on their usage and available options.
 
-#Contributing
-We welcome contributions! Please see the CONTRIBUTING.md file for details on how to contribute to this project.
-
 ## Folder_Structure_Maker
 - Included PyQt Interface for simplicity 
 - ![image](https://github.com/paulsmomentfactory/Information_Management/assets/137349144/1414b2e9-8def-4774-80c2-3ef9fcadd80e)
+
+
+#Contributing
+We welcome contributions! Please see the CONTRIBUTING.md file for details on how to contribute to this project.
 
 #License
 See the LICENSE.md file for details.
