@@ -6,6 +6,10 @@ This repository is dedicated to providing a collection of tools and scripts that
 - Included PyQt Interface for simplicity 
 - ![image](https://github.com/paulsmomentfactory/Information_Management/assets/137349144/1414b2e9-8def-4774-80c2-3ef9fcadd80e)
 
+## Folder Structure Maker with Templates
+- This can be used as the above but will save your templates... Please use this one instead because it can streamline the process for you.
+- ![image](https://github.com/paulsmomentfactory/Information_Management/assets/137349144/4b7c3352-557c-45e2-ab14-ea0720acb9fd)
+
 
 ## Table of Contents
 
